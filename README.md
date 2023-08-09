@@ -1,2 +1,2 @@
-# jenkins
-This is for jenkins
+# DevOps Bootcamp
+This repository contains DevOps related scripts.
